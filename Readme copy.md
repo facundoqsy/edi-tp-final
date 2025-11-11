@@ -1,4 +1,4 @@
-Trabajo Final – Sistema REST para una Clínica Veterinaria 🐶🐱
+Trabajo Final – Sistema REST para una Clínica Veterinaria 
 
 En este trabajo hicimos un sistema REST para una clínica veterinaria, que básicamente sirve para manejar toda la información de las mascotas, los dueños, los turnos y los tratamientos.
 La idea es que funcione como una API, donde se pueden hacer distintas operaciones (agregar, ver, editar o borrar datos) de forma fácil y rápida.
